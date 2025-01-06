@@ -1,0 +1,41 @@
+[
+  {
+    "title": "포트폴리오 항목 1",
+    "content": "이 프로젝트는 웹 애플리케이션으로, React와 Firebase를 사용하여 개발되었습니다.",
+    "review": {
+      "content": "이 프로젝트는 UI/UX가 훌륭하며, 성능도 매우 우수합니다.",
+      "writer": "홍길동"
+    },
+    "images": {
+      "thumbnail": "/images/project1_thumbnail.jpg",
+      "description1": "/images/project1_image1.jpg",
+      "description2": "/images/project1_image2.jpg"
+    }
+  },
+  {
+    "title": "포트폴리오 항목 2",
+    "content": "이 프로젝트는 AI 기반 추천 시스템으로, Python과 TensorFlow를 활용하였습니다.",
+    "review": {
+      "content": "추천 알고리즘이 매우 정교하며, 실행 속도가 빠릅니다.",
+      "writer": "김철수"
+    },
+    "images": {
+      "thumbnail": "/images/project2_thumbnail.jpg",
+       "description1": "/images/project1_image1.jpg",
+      "description2": "/images/project1_image2.jpg"
+    }
+  },
+  {
+    "title": "포트폴리오 항목 3",
+    "content": "모바일 친화적인 웹사이트로, Next.js와 Tailwind CSS를 사용하였습니다.",
+    "review": {
+      "content": "반응형 디자인이 잘 적용되어 있고, 사용자 경험이 훌륭합니다.",
+      "writer": "이영희"
+    },
+    "images": {
+      "thumbnail": "/images/project3_thumbnail.jpg",
+      "description1": "/images/project1_image1.jpg",
+      "description2": "/images/project1_image2.jpg"
+    }
+  }
+]
